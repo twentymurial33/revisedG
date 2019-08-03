@@ -1,1 +1,3 @@
 # revisedG
+
+AJAX TO HTML 
